@@ -1,0 +1,14 @@
+*.d
+*.o
+*.dep
+*.map
+*.elf
+*.map
+*.htm
+*.iex
+*.lnp
+*.log
+*.txt
+*.pdf
+pdf/*
+obj/*
